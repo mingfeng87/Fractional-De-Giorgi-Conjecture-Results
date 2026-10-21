@@ -123,13 +123,13 @@ all exponents below $1/2$.
 | Detail | Value |
 |---|---|
 | **Dimension** | 8 |
-| **Range** | $s_0 < s < 1$ |
+| **Range** | $1/2 < s < 1$ |
 | **Length** | 178 pages |
 
 The manuscript establishes one-dimensional symmetry for bounded entire
 solutions of $$(-\Delta)^s u = u - u^3$$ in $\mathbb{R}^8$ that are
-monotonicity or BV condition — e.g. strictly increasing in one coordinate,
-or of bounded variation, for $s_0 < s < 1$ (Theorem 1.1). The proof works in a
+monotonicity and BV condition — e.g. strictly increasing in one coordinate,
+and of bounded variation, for $1/2 < s < 1$ (Theorem 1.1). The proof works in a
 bounded-variation framework and combines compactness of BV
 minimizers, interface separation at scale,
 and propagation of stability / dimensional reduction.
