@@ -3,7 +3,7 @@
 This repository hosts AI-assisted research manuscripts on one-dimensional
 symmetry for the fractional Allen–Cahn equation. Together the drafts cover
 dimension four across $0 < s < 1$ and dimension eight in the two regimes
-near the endpoints $s = 1/2$ and $s = 1$.
+near the endpoints $s = 1/2$ and $s = 1$. Furthermore, under the assumption of the optimal BV estimate, we have the one-dimensional symmetry for all $N\leq8$ and $1/2<s<1$.
 
 **Draft status:** All manuscripts present candidate proofs. The team is
 continuing to verify every argument. The summaries below describe the
@@ -116,6 +116,26 @@ all exponents below $1/2$.
 
 ---
 
+### 5. [[Manuscript title — copy from the PDF title page]]
+
+📄 **[Read the PDF](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional_de_giorgi_N8_BV.pdf)**
+
+| Detail | Value |
+|---|---|
+| **Dimension** | 8 |
+| **Range** | $s_0 < s < 1$ |
+| **Length** | 178 pages |
+
+The manuscript establishes one-dimensional symmetry for bounded entire
+solutions of $$(-\Delta)^s u = u - u^3$$ in $\mathbb{R}^8$ that are
+monotonicity or BV condition — e.g. strictly increasing in one coordinate,
+or of bounded variation, for $s_0 < s < 1$ (Theorem 1.1). The proof works in a
+bounded-variation framework and combines compactness of BV
+minimizers, interface separation at scale,
+and propagation of stability / dimensional reduction.
+
+---
+
 ## Citing a manuscript
 
 Use the full manuscript title and the date printed in the PDF. Include the
@@ -133,6 +153,7 @@ so that the cited draft can be identified after revisions.
 | [`fractional_degiorgi_N4_bigger-half.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/blob/main/fractional_degiorgi_N4_bigger-half.pdf) | Dimension 4, $1/2 < s < 1$ |
 | [`fractional_degiorgi_N8_near_one.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/blob/main/fractional_degiorgi_N8_near_one.pdf) | Dimension 8, $s$ near 1 |
 | [`fractional_degiorgi_N8_less_near_half.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/blob/main/fractional_degiorgi_N8_less_near_half.pdf) | Dimension 8, $s$ slightly below $1/2$ |
+| [`fractional_de_giorgi_N8_BV.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional_de_giorgi_N8_BV.pdf) | Dimension 8 |
 | [`docs/`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/tree/main/docs) | Documentation site files |
 | [`SECURITY.md`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/blob/main/SECURITY.md) | Security policy |
 
