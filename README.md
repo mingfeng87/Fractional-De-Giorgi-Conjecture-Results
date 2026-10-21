@@ -116,7 +116,7 @@ all exponents below $1/2$.
 
 ---
 
-### 5. [[Manuscript title — copy from the PDF title page]]
+### 5. A sharp-growth extension of the fractional De Giorgi method through dimension eight
 
 📄 **[Read the PDF](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional_de_giorgi_N8_BV.pdf)**
 
