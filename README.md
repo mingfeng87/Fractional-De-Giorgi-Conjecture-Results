@@ -1,9 +1,6 @@
 # Fractional De Giorgi Conjecture
 
-This repository hosts AI-assisted research manuscripts on one-dimensional
-symmetry for the fractional Allen–Cahn equation. Together the drafts cover
-dimension four across $0 < s < 1$ and dimension eight in the two regimes
-near the endpoints $s = 1/2$ and $s = 1$. Furthermore, under the assumption of the optimal BV estimate, we have the one-dimensional symmetry for all $N\leq8$ and $1/2<s<1$.
+This repository collects manuscripts and drafts on the fractional De Giorgi conjecture for the fractional Allen–Cahn equation $(-\Delta)^s u = u - u^3$. Together the drafts cover dimension four across $0 < s < 1$, dimension eight in the two regimes near the endpoints $s = 1/2$ and $s = 1$, and, in the two newly added manuscripts, dimension eight for $0 < s < 1/2$ via nonplanar entire minimizers and dimension nine for $0 < s < 1/2$ via monotone nonplanar entire solutions. The first five manuscripts concern one-dimensional symmetry and related rigidity results; the two new manuscripts construct nonplanar entire solutions and minimizers, complementing those symmetry results and illustrating the interplay between dimension and the fractional range.
 
 **Draft status:** All manuscripts present candidate proofs. The team is
 continuing to verify every argument. The summaries below describe the
@@ -136,6 +133,37 @@ and propagation of stability / dimensional reduction.
 
 ---
 
+
+### 6. Monotone nonplanar solutions of the fractional Allen–Cahn equation in R9
+
+**[Read the PDF](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/monotone-fractional-allen-cahn-r9.pdf)**
+
+| Detail | Value |
+|---|---|
+| **Dimension** | 9 |
+| **Range** | $0 < s < 1/2$ |
+| **Length** | 46 pages |
+
+For every $0 < s < 1/2$, the manuscript constructs a bounded entire solution of $(−Δ)^s u = u − u³$ in $R^9$ that is strictly increasing in its ninth variable and depends on more than one linear coordinate (Theorem 1). The solution is an entire minimizer of the fractional Allen–Cahn energy and is nonplanar. The geometric input is the strict fractional mean curvature inequality for an explicit cap inside a chamber of the eight-dimensional Simons cone. Transport of the diffuse saddle to dilates of this cap gives ordered barriers and a reflection-symmetric minimizer in dimension eight; an infinite-cylinder comparison and a centered slope selection then produce the nine-dimensional entire minimizer. This yields a nonplanar monotone solution in dimension nine for the fractional equation, in analogy with the classical del Pino–Kowalczyk–Wei construction.
+
+* * *
+
+### 7. Nonplanar entire minimizers of the fractional Allen–Cahn equation in dimension eight
+
+**[Read the PDF](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/nonplanar-fractional-allen-cahn-r8.pdf)**
+
+| Detail | Value |
+|---|---|
+| **Dimension** | 8 |
+| **Range** | $0 < s < 1/2$ |
+| **Length** | 42 pages |
+
+For every $0 < s < 1/2$, the manuscript constructs a smooth, sign-changing, nonplanar entire minimizer $v : R^8 → (−1, 1)$ of the cubic fractional Allen–Cahn energy, invariant under O(4) × O(4) (Theorem 1). The construction uses the geometry and strict fractional curvature bound for an explicit cap from the companion manuscript. It transports the exact saddle to dilates of the cap and employs a weighted correction near the wells to obtain strict barriers. Minimization on balls with saddle exterior data produces a limit that approaches the saddle at rate $O(|P|^{−5/2})$, and whose exterior zero set is a smooth normal graph of the same order over the Simons cone. This supplies a nonplanar entire minimizer in dimension eight for the nonlocal equation with $0 < s < 1/2$.
+
+* * *
+
+
+
 ## Citing a manuscript
 
 Use the full manuscript title and the date printed in the PDF. Include the
@@ -154,6 +182,8 @@ so that the cited draft can be identified after revisions.
 | [`fractional_degiorgi_N8_near_one.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/blob/main/fractional_degiorgi_N8_near_one.pdf) | Dimension 8, $s$ near 1 |
 | [`fractional_degiorgi_N8_less_near_half.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/blob/main/fractional_degiorgi_N8_less_near_half.pdf) | Dimension 8, $s$ slightly below $1/2$ |
 | [`fractional_de_giorgi_N8_BV.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional_de_giorgi_N8_BV.pdf) | Dimension 8 |
+| [`monotone-fractional-allen-cahn-r9.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/monotone-fractional-allen-cahn-r9.pdf) | Dimension 9, $0 < s < 1/2$, nonplanar monotone entire solution |
+| [`nonplanar-fractional-allen-cahn-r8.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/nonplanar-fractional-allen-cahn-r8.pdf) | Dimension 8, $0 < s < 1/2$, nonplanar entire minimizer |
 | [`docs/`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/tree/main/docs) | Documentation site files |
 | [`SECURITY.md`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/blob/main/SECURITY.md) | Security policy |
 
