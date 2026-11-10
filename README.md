@@ -198,9 +198,10 @@ so that the cited draft can be identified after revisions.
 | [`fractional_de_giorgi_N8_BV.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional_de_giorgi_N8_BV.pdf) | Dimension 8 |
 | [`monotone-fractional-allen-cahn-r9.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/monotone-fractional-allen-cahn-r9.pdf) | Dimension 9, $0 < s < 1/2$, nonplanar monotone entire solution |
 | [`nonplanar-fractional-allen-cahn-r8.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/nonplanar-fractional-allen-cahn-r8.pdf) | Dimension 8, $0 < s < 1/2$, nonplanar entire minimizer |
+| [`fractional-de-giorgi-5d-small-s.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional-de-giorgi-5d-small-s.pdf) | Dimension 5, small $$s$$ |
 | [`docs/`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/tree/main/docs) | Documentation site files |
 | [`SECURITY.md`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/blob/main/SECURITY.md) | Security policy |
-| [`fractional-de-giorgi-5d-small-s.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional-de-giorgi-5d-small-s.pdf) | Dimension 5, small $$s$$ |
+
 
 ---
 
