@@ -1,6 +1,6 @@
 # Fractional De Giorgi Conjecture
 
-This repository collects manuscripts and drafts on the fractional De Giorgi conjecture for the fractional Allen–Cahn equation $(-\Delta)^s u = u - u^3$. Together the drafts cover dimension four across $0 < s < 1$, dimension eight in the two regimes near the endpoints $s = 1/2$ and $s = 1$, and, in the two newly added manuscripts, dimension eight for $0 < s < 1/2$ via nonplanar entire minimizers and dimension nine for $0 < s < 1/2$ via monotone nonplanar entire solutions. The first five manuscripts concern one-dimensional symmetry and related rigidity results; the two new manuscripts construct nonplanar entire solutions and minimizers, complementing those symmetry results and illustrating the interplay between dimension and the fractional range.
+This repository collects manuscripts and drafts on the fractional De Giorgi conjecture for the fractional Allen–Cahn equation $(-\Delta)^s u = u - u^3$. Together the drafts cover dimension four across $$0 < s < 1$$, dimension five for small $$s > 0$$, dimension eight in the two regimes near the endpoints $$s = 1/2$$ and $$s = 1$$, and dimension eight/nine for $$0 < s < 1/2$$ via nonplanar entire solutions and minimizers. The first five manuscripts concern one-dimensional symmetry and related rigidity results; the two new manuscripts construct nonplanar entire solutions and minimizers, complementing those symmetry results and illustrating the interplay between dimension and the fractional range.
 
 **Draft status:** All manuscripts present candidate proofs. The team is
 continuing to verify every argument. The summaries below describe the
@@ -162,6 +162,20 @@ For every $0 < s < 1/2$, the manuscript constructs a smooth, sign-changing, nonp
 
 * * *
 
+### 8. The fractional De Giorgi conjecture in dimension five for small orders
+
+**[Read the PDF](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional-de-giorgi-5d-small-s.pdf)**
+
+| Detail | Value |
+|---|---|
+| **Dimension** | 5 |
+| **Range** | $$0 < s < s_*$$ for some $$s_* \in (0, 1/2)$$ |
+| **Length** | 20 pages |
+
+The manuscript proves one-dimensional symmetry for bounded entire classical solutions of $$(-\Delta)^s u = u - u^3$$ in $$\mathbb{R}^5$$ that are strictly increasing in one coordinate, for all sufficiently small $$s > 0$$ (Theorem 1.1). No hypothesis is imposed on the limits as $$x_5 \to \pm\infty$$. The geometric input is flatness of smooth stable nonlocal cones in $$\mathbb{R}^4$$ for small perimeter order $$p = 2s$$. At order zero, a signed estimate for the angular kernel and a spherical moment bound give a lower bound on the total conormal; a weighted stability test then forces the conormal to be constant. Cone flatness yields minimization of the monotone solution and flatness of its limiting interfaces. It also gives finite Morse index rigidity for the Allen–Cahn equation and a nonlocal Bernstein theorem in $$\mathbb{R}^4$$. The draft status note states that the candidate proof was obtained on November 10, 2026, through AI-assisted dialogue training and is currently under verification.
+
+* * *
+
 
 
 ## Citing a manuscript
@@ -186,6 +200,7 @@ so that the cited draft can be identified after revisions.
 | [`nonplanar-fractional-allen-cahn-r8.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/nonplanar-fractional-allen-cahn-r8.pdf) | Dimension 8, $0 < s < 1/2$, nonplanar entire minimizer |
 | [`docs/`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/tree/main/docs) | Documentation site files |
 | [`SECURITY.md`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/blob/main/SECURITY.md) | Security policy |
+| [`fractional-de-giorgi-5d-small-s.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional-de-giorgi-5d-small-s.pdf) | Dimension 5, small $$s$$ |
 
 ---
 
