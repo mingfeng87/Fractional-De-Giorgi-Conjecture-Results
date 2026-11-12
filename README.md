@@ -169,7 +169,7 @@ For every $0 < s < 1/2$, the manuscript constructs a smooth, sign-changing, nonp
 | Detail | Value |
 |---|---|
 | **Dimension** | 5 |
-| **Range** | $$0 < s < s_*$$ for some $$s_* \in (0, 1/2)$$ |
+| **Range** | $0 < s < s_0$ for some $s_0 \in (0, 1/2)$ |
 | **Length** | 20 pages |
 
 The manuscript proves one-dimensional symmetry for bounded entire classical solutions of $$(-\Delta)^s u = u - u^3$$ in $$\mathbb{R}^5$$ that are strictly increasing in one coordinate, for all sufficiently small $$s > 0$$ (Theorem 1.1). No hypothesis is imposed on the limits as $$x_5 \to \pm\infty$$. The geometric input is flatness of smooth stable nonlocal cones in $$\mathbb{R}^4$$ for small perimeter order $$p = 2s$$. At order zero, a signed estimate for the angular kernel and a spherical moment bound give a lower bound on the total conormal; a weighted stability test then forces the conormal to be constant. Cone flatness yields minimization of the monotone solution and flatness of its limiting interfaces. It also gives finite Morse index rigidity for the Allen–Cahn equation and a nonlocal Bernstein theorem in $$\mathbb{R}^4$$. The draft status note states that the candidate proof was obtained on November 10, 2026, through AI-assisted dialogue training and is currently under verification.
