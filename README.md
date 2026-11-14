@@ -180,7 +180,7 @@ The manuscript proves one-dimensional symmetry for bounded entire classical solu
 
 ## Citing a manuscript
 
-Use the full manuscript title and the date printed in the PDF. Include the
+Use the full manuscript title and the date printed in the PDF, use M. Zhao et al. as the author of PDF files. Include the
 [repository URL](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture)
 and the commit hash or a commit-specific PDF link for the version consulted,
 so that the cited draft can be identified after revisions.
