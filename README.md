@@ -1,6 +1,6 @@
 # Fractional De Giorgi Conjecture
 
-This repository collects manuscripts and drafts on the fractional De Giorgi conjecture for the fractional Allen–Cahn equation $(-\Delta)^s u = u - u^3$. Together the drafts cover dimension four across $0 < s < 1$, dimension five for small $s > 0$, dimension seven for $s = 1/20$ via a nonplanar entire minimizer, dimension eight in the two regimes near the endpoints $s = 1/2$ and $s = 1$, and dimension eight/nine for $0 < s < 1/2$ via nonplanar entire solutions and minimizers. The first five manuscripts concern one-dimensional symmetry and related rigidity results; the two new manuscripts construct nonplanar entire solutions and minimizers, complementing those symmetry results and illustrating the interplay between dimension and the fractional range.
+This repository collects manuscripts and drafts on the fractional De Giorgi conjecture for the fractional Allen–Cahn equation $(-\Delta)^s u = u - u^3$. Together the drafts cover dimension four across $0 < s < 1$, dimension five for small $s > 0$, dimension seven for $s = 1/20$ via a nonplanar entire minimizer, dimension eight at $s = 1/20$ via a monotone nonplanar entire minimizer, dimension eight in the two regimes near the endpoints $s = 1/2$ and $s = 1$, and dimension eight/nine for $0 < s < 1/2$ via nonplanar entire solutions and minimizers. The first five manuscripts concern one-dimensional symmetry and related rigidity results; the two new manuscripts construct nonplanar entire solutions and minimizers, complementing those symmetry results and illustrating the interplay between dimension and the fractional range.
 
 **Draft status:** All manuscripts present candidate proofs. The team is
 continuing to verify every argument. The summaries below describe the
@@ -190,6 +190,20 @@ For the fixed order $s = 1/20$, the manuscript constructs a smooth, sign-changin
 
 * * *
 
+### 10. A construction of a monotone nonplanar fractional Allen–Cahn solution in dimension eight
+
+**[Read the PDF](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional_allen_cahn_r8_construction.pdf)**
+
+| Detail | Value |
+|---|---|
+| **Dimension** | $8$ |
+| **Range** | $s = 1/20$ |
+| **Length** | 178 pages |
+
+For the fixed order $s = 1/20$, the manuscript constructs a smooth entire minimizer of $(-\Delta)^{1/20}U = U - U^3$ in $\mathbb{R}^8$ that is strictly increasing in its last variable and is not one-dimensional. The construction starts from an explicit matched profile near the stationary $(4,3)$ cone in $\mathbb{R}^7$, using the cone, radial spectral estimates, and canonical cap theorems of M. Zhao et al. A projected inverse with weighted radial and first-normal estimates is proved, and a finite sequence of phase corrections makes the exterior residual smaller than the canonical cap margin. Global ordered diffuse caps then trap unrestricted minimizers on expanding balls. A cylinder construction adds the monotone variable and fixes a central slope that excludes a planar layer. The proof establishes the example at the stated exponent; it does not assert prescribed vertical limits for the final solution. The draft status note states that the candidate proof was obtained on November 14, 2026, through extensive dialogue-based training with AI and is currently under verification.
+
+* * *
+
 ## Citing a manuscript
 
 Use the full manuscript title and the date printed in the PDF, use M. Zhao et al. as the author of PDF files. Include the
@@ -212,6 +226,7 @@ so that the cited draft can be identified after revisions.
 | [`nonplanar-fractional-allen-cahn-r8.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/nonplanar-fractional-allen-cahn-r8.pdf) | Dimension 8, $0 < s < 1/2$, nonplanar entire minimizer |
 | [`fractional-de-giorgi-5d-small-s.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional-de-giorgi-5d-small-s.pdf) | Dimension 5, small $$s$$ |
 | [`nonplanar_fractional_allen_cahn_minimizer_r7.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/nonplanar_fractional_allen_cahn_minimizer_r7.pdf) | Dimension 7, $s = 1/20$, nonplanar entire minimizer |
+| [`fractional_allen_cahn_r8_construction.pdf`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture-Results/blob/main/fractional_allen_cahn_r8_construction.pdf) | Dimension 8, $s = 1/20$, monotone nonplanar entire minimizer |
 | [`docs/`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/tree/main/docs) | Documentation site files |
 | [`SECURITY.md`](https://github.com/mingfeng87/Fractional-De-Giorgi-Conjecture/blob/main/SECURITY.md) | Security policy |
 
